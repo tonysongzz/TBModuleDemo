@@ -1,0 +1,22 @@
+{
+  "name": "TBNetWorking",
+  "version": "0.1.0",
+  "summary": "A short description of TBNetWorking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tonysongzz/TBNetWorking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tonysongzz": "songtao@mirahome.me"
+  },
+  "source": {
+    "git": "https://github.com/tonysongzz/TBNetWorking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TBNetWorking/Classes/**/*"
+}

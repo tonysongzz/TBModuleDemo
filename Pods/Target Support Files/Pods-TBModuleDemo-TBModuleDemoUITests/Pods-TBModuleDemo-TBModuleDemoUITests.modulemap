@@ -1,0 +1,6 @@
+framework module Pods_TBModuleDemo_TBModuleDemoUITests {
+  umbrella header "Pods-TBModuleDemo-TBModuleDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

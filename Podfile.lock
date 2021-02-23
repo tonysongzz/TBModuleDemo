@@ -1,0 +1,16 @@
+PODS:
+  - TBNetWorking (0.1.0)
+
+DEPENDENCIES:
+  - TBNetWorking (from `Lib/TBNetWorking`)
+
+EXTERNAL SOURCES:
+  TBNetWorking:
+    :path: Lib/TBNetWorking
+
+SPEC CHECKSUMS:
+  TBNetWorking: d422dd82828b652176aceb3a19b9fbffbb719dd6
+
+PODFILE CHECKSUM: 3b8439bae639b45db16fee16d98bc6d5ea9e7196
+
+COCOAPODS: 1.10.1
